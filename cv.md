@@ -6,7 +6,6 @@
 * Email: sintezsintez55@gmail.com
 * GitHub: [sintez55](https://github.com/sintez55)
 * Telegram: https://t.me/andreysin77
-___
 
 ## About:
 
@@ -17,6 +16,7 @@ I recently started learning HTML and CSS and JS programming. I want to study at 
 * HTML
 * CSS
 * JavaScript
+* Python
 * Git/GitHub
 * Photoshop
 
@@ -38,3 +38,11 @@ function explode(s) {
 }
 
 ```
+## Education:
+
+* __Pskov State University__
+   * Department of Information and Communication Technologies
+* __Stepik.org__
+   * Web Development for Beginners: HTML and CSS ([Sertificate](https://stepik.org/cert/1579311))
+   * Programming in Python ([Sertificate](https://stepik.org/cert/862275))
+
