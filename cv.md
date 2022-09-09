@@ -46,7 +46,7 @@ function explode(s) {
    * Web Development for Beginners: HTML and CSS ([Sertificate](https://stepik.org/cert/1579311))
    * Programming in Python ([Sertificate](https://stepik.org/cert/862275))
 
-## Languages
+## Languages:
 
 * Russian - native speaker.
 * English - A1
