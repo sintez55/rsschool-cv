@@ -1,6 +1,5 @@
 # Andrey Sinitsyn
 ## Contacts:
-___
 
 * Location: Pskov, Russia
 * Phone: +7 953 231 75 64
